@@ -1,0 +1,14 @@
+com\example\librarymanagementsystem\Services\BorrowingRecordService.class
+com\example\librarymanagementsystem\Services\PatronService.class
+com\example\librarymanagementsystem\entity\BorrowingRecord.class
+com\example\librarymanagementsystem\entity\Patron.class
+com\example\librarymanagementsystem\Services\BookService.class
+com\example\librarymanagementsystem\controllers\BookController.class
+com\example\librarymanagementsystem\controllers\PatronController.class
+com\example\librarymanagementsystem\Services\BookRepository.class
+com\example\librarymanagementsystem\entity\Book.class
+com\example\librarymanagementsystem\Repository\BookRepository.class
+com\example\librarymanagementsystem\controllers\BorrowingRecordController.class
+com\example\librarymanagementsystem\Repository\PatronRepository.class
+com\example\librarymanagementsystem\LibraryManagementSystemApplication.class
+com\example\librarymanagementsystem\Repository\BorrowingRecordRepository.class
